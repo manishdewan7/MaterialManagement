@@ -1,0 +1,10 @@
+2018-02-07 20:37:09,745 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-02-07 20:41:12,977 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.manish.materialmanagement:MaterialMangement:0.0.1-SNAPSHOT @ C:\Users\abc\MaterialManagement\MaterialMangement\pom.xml.
+2018-02-07 20:41:13,840 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MaterialMangement/src/main/java
+2018-02-07 20:41:13,843 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MaterialMangement/src/main/resources
+2018-02-07 20:41:13,844 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MaterialMangement/src/test/java
+2018-02-07 20:41:13,845 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /MaterialMangement/src/test/resources
+2018-02-07 20:41:15,771 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-07 20:41:15,783 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-02-07 20:41:15,785 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-02-07 20:41:15,786 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
